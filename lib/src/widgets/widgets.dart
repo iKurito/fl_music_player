@@ -1,0 +1,1 @@
+export 'package:fl_music_player/src/widgets/custom_appbar.dart';
